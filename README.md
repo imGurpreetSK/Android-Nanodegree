@@ -13,3 +13,6 @@ Very important lesson. Teaches advanced topics like Services, Loaders, ContentPr
 ## [StockHawk](https://github.com/GurpreetSK95/StockHawk)
 Objective is to productionize an app, taking it from a functional state to a production-ready state.  
 Learning outcomes: finding and handling error cases, adding accessibility features, allowing for localization, adding widgets, adding libraries.
+
+## [Build It Bigger](https://github.com/GurpreetSK95/Jokestar)
+In this project, the task was to create an app with multiple flavors that uses multiple libraries (Android and Java) and Google Cloud Endpoints.
