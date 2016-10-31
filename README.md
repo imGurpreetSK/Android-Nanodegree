@@ -16,3 +16,6 @@ Learning outcomes: finding and handling error cases, adding accessibility featur
 
 ## [Build It Bigger](https://github.com/GurpreetSK95/Jokestar)
 In this project, the task was to create an app with multiple flavors that uses multiple libraries (Android and Java) and Google Cloud Endpoints.
+
+## [Material Design](https://github.com/GurpreetSK95/MaterializeXYZReader)
+The aim was to port a given app according to Material Design guidelines, i.e., adding design dependencies, CollapsibleToolbarLayout, Surfaces, Motion, FAB, extending theme from AppCompat, etc and providing user a complete and seemless experience.
