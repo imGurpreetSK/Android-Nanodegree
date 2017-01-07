@@ -19,3 +19,6 @@ In this project, the task was to create an app with multiple flavors that uses m
 
 ## [Material Design](https://github.com/GurpreetSK95/MaterializeXYZReader)
 The aim was to port a given app according to Material Design guidelines, i.e., adding design dependencies, CollapsibleToolbarLayout, Surfaces, Motion, FAB, extending theme from AppCompat, etc and providing user a complete and seemless experience.
+
+## [Go Ubiquitous](https://github.com/GurpreetSK95/Wear-It)
+The aim was to create a watch face for the sunshine app to run on an Android Wear device. 
