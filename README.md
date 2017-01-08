@@ -22,3 +22,16 @@ The aim was to port a given app according to Material Design guidelines, i.e., a
 
 ## [Go Ubiquitous](https://github.com/GurpreetSK95/Wear-It)
 The aim was to create a watch face for the sunshine app to run on an Android Wear device. 
+
+## [Motivation Daily](https://github.com/GurpreetSK95/Motivation-Daily)
+A dose of motivational quotes and knowledge packed in a semi-offline android application.
+
+Motivation Daily aims at providing quotes to user by:
+* famous personalities, or
+* quotes categories
+
+Uses firebase as a back-end for working, and all the present data is available for offline use once it has been loaded. Various firebase services used are:
+* database, for realtime database services
+* crash reporting
+* analytics
+* notifications
