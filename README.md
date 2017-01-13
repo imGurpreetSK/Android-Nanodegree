@@ -35,3 +35,6 @@ Uses firebase as a back-end for working, and all the present data is available f
 * crash reporting
 * analytics
 * notifications
+
+
+## [Received my certification!](https://GurpreetSK95.github.io)
