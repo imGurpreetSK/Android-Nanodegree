@@ -37,4 +37,4 @@ Uses firebase as a back-end for working, and all the present data is available f
 * notifications
 
 
-## [Received my certification!](https://GurpreetSK95.github.io)
+# [Received my certification!](https://goo.gl/BiRZA3)
