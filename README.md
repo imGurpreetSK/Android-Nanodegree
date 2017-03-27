@@ -1,4 +1,6 @@
 # Android Nanodegree
+Repository to keep a track of all the learnings, projects created, and resources used during my Android Nanodegree.
+
 
 ## [App Portfolio](https://github.com/GurpreetSK95/My-App-Portfolio)
 Basic app for getting one introduced to Udacity environment. Nothing much to talk about.
